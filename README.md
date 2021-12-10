@@ -11,3 +11,6 @@
 ![GAS_CSV_extraction.gif](/README_img/GAS_CSV_extraction.gif)  
 * Document  
 ![GAS_CSV_extraction.pdf](/README_img/GAS_CSV_extraction.pdf)  
+  
+# License
+"GAS_CSV_extraction" is Confidential.
