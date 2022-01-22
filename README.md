@@ -13,4 +13,4 @@
 ![GAS_CSV_extraction.pdf](/README_img/GAS_CSV_extraction.pdf)  
   
 # License
-"GAS_CSV_extraction" is Confidential.
+https://choosealicense.com/no-permission/
